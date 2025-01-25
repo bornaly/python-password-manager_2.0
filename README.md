@@ -22,4 +22,40 @@ Logging and Error Handling The application automatically logs errors in the logs
 Maintenance Tasks Reset the admin or sender email credentials using the Maintenance menu. Delete logs older than 3 days if needed (automatically handled).
 
 
+Initial setup - where you will put sender email (who will send email to you), sender email gmailApp passwrod, see the sameple how to get it from gmail and last one is which email will receive the email.
+
 ![image](https://github.com/user-attachments/assets/31d56a1f-eb89-410b-a50d-edb225bf5aa8)
+
+Here is sample:
+![image](https://github.com/user-attachments/assets/1a0bdda4-31df-49ff-b1e4-da9ecf796b7a)
+
+
+Now create a user who will use this software that would be you:
+![image](https://github.com/user-attachments/assets/5a08db52-08e6-4922-829e-5f2807ab40c1)
+
+Oncer a user is created, now login as that user and password from previouse window:
+![image](https://github.com/user-attachments/assets/76342c5e-42da-4d22-b872-26d8ab08acef)
+
+here is main app how it looks:
+![image](https://github.com/user-attachments/assets/a573a73c-80ab-431a-8056-74d250ab0ca2)
+
+you can add any account password, target name
+i.e paypal login id, Password (will be increateded), paypal.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
