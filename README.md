@@ -46,6 +46,12 @@ i.e paypal login id, Password (will be increateded), paypal.com
 ** if you ever export you data to excel, remember workbook is password protect edit it. To unprotect it you need to put the password you created to access the main app.
 
 
+![image](https://github.com/user-attachments/assets/7fc83305-a8a6-481d-817f-9ac99ff0b105)
+
+Done.....
+
+
+
 
 
 
