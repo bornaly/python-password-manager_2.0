@@ -20,3 +20,6 @@ Exporting Data Use the Export Data to Excel option in the Maintenance menu to sa
 Logging and Error Handling The application automatically logs errors in the logs directory. Check logs if you encounter issues.
 
 Maintenance Tasks Reset the admin or sender email credentials using the Maintenance menu. Delete logs older than 3 days if needed (automatically handled).
+
+
+![image](https://github.com/user-attachments/assets/31d56a1f-eb89-410b-a50d-edb225bf5aa8)
