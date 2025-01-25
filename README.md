@@ -43,6 +43,9 @@ you can add any account password, target name
 i.e paypal login id, Password (will be increateded), paypal.com
 
 
+** if you ever export you data to excel, remember workbook is password protect edit it. To unprotect it you need to put the password you created to access the main app.
+
+
 
 
 
